@@ -9,23 +9,23 @@
     <packaging>pom</packaging>
     <version>1.2.1-SNAPSHOT</version>
     <modules>
-        <module>oauth2-custom-consent-authorizationserver</module>
-        <module>gateway-oauth2-login</module>
-        <module>oauth2-persistence-client</module>
+<!--        <module>oauth2-custom-consent-authorizationserver</module>-->
+<!--        <module>gateway-oauth2-login</module>-->
+<!--        <module>oauth2-persistence-client</module>-->
         <module>oauth2-jwt</module>
-        <module>oauth2-login</module>
-        <module>oidc-login</module>
-        <module>oauth2-client-model</module>
-        <module>oauth2-pkce</module>
-        <module>oauth2-client-registration</module>
-        <module>oauth2-jwk-redis</module>
-        <module>oauth2-jwk-consul-config</module>
-        <module>oauth2-opaque-token</module>
-        <module>oauth2-token-access-restrictions</module>
-        <module>oauth2-introspection-with-jwt</module>
-        <module>oauth2-custom-consent-page-with-vue</module>
-        <module>device-authorization-flow</module>
-        <module>oauth2-jwk-with-vault</module>
+<!--        <module>oauth2-login</module>-->
+<!--        <module>oidc-login</module>-->
+<!--        <module>oauth2-client-model</module>-->
+<!--        <module>oauth2-pkce</module>-->
+<!--        <module>oauth2-client-registration</module>-->
+<!--        <module>oauth2-jwk-redis</module>-->
+<!--        <module>oauth2-jwk-consul-config</module>-->
+<!--        <module>oauth2-opaque-token</module>-->
+<!--        <module>oauth2-token-access-restrictions</module>-->
+<!--        <module>oauth2-introspection-with-jwt</module>-->
+<!--        <module>oauth2-custom-consent-page-with-vue</module>-->
+<!--        <module>device-authorization-flow</module>-->
+<!--        <module>oauth2-jwk-with-vault</module>-->
     </modules>
 
     <parent>
